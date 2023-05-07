@@ -60,6 +60,5 @@ public class Programa
         //função 'Console.WriteLine()' para mostrar o valor dos atributos dos objetos 'hotel' e 'cliente'
         Console.WriteLine("---DADOS CLIENTE---" + "\nCodigo: " + hotel.cliente.codigo + "\nRG: " + hotel.cliente.rg + "\nNome: " + hotel.cliente.nome + "\ne-mail: " + hotel.cliente.email);
         Console.WriteLine("\n\n---DADOS HOTEL---" + "\nCodigo: " + hotel.codigoReserva + "\nNome: " + hotel.nome + "\nTipo Quarto: " + hotel.tipoQuarto + "\nNumero Quarto: " + hotel.numQuarto + "\nData Entrada: " + hotel.dataEntrada + "\nData Saida: " + hotel.dataSaida);
-
     }
 }
