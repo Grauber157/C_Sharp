@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\bin\Debug\net6.0\Relacionamento e Agregacao.exe
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\bin\Debug\net6.0\Relacionamento e Agregacao.deps.json
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\bin\Debug\net6.0\Relacionamento e Agregacao.runtimeconfig.json
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\bin\Debug\net6.0\Relacionamento e Agregacao.dll
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\bin\Debug\net6.0\Relacionamento e Agregacao.pdb
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.AssemblyInfo.cs
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.dll
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\refint\Relacionamento e Agregacao.dll
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.pdb
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\Relacionamento e Agregacao.genruntimeconfig.cache
+C:\Users\elias\source\repos\Relacionamento e Agregacao\Relacionamento e Agregacao\obj\Debug\net6.0\ref\Relacionamento e Agregacao.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Relacionamento e Agregacao/1.0.0": {
+        "runtime": {
+          "Relacionamento e Agregacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Relacionamento e Agregacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
