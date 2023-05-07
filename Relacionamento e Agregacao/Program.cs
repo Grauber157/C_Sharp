@@ -1,6 +1,5 @@
 ﻿using System;
 //Made by Gabriel F. Dias 07/05/23
-
 //Criação da classe cliente
 public class Cliente
 {
@@ -29,10 +28,7 @@ public class Cliente
     {
         Console.WriteLine("Deletado com sucesso");
     }
-
-
 }
-
 
 public class Hotel
 {
@@ -49,7 +45,6 @@ public class Hotel
     {
         Console.WriteLine("Reserva efetuada com sucesso");
     }
-
 }
 
 //Metodo Main para mostrar o valor dos atributos
